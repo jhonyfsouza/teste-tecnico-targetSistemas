@@ -1,0 +1,14 @@
+C:\Users\User\TargetSistemas\bin\Debug\net9.0\TargetSistemas.exe
+C:\Users\User\TargetSistemas\bin\Debug\net9.0\TargetSistemas.deps.json
+C:\Users\User\TargetSistemas\bin\Debug\net9.0\TargetSistemas.runtimeconfig.json
+C:\Users\User\TargetSistemas\bin\Debug\net9.0\TargetSistemas.dll
+C:\Users\User\TargetSistemas\bin\Debug\net9.0\TargetSistemas.pdb
+C:\Users\User\TargetSistemas\obj\Debug\net9.0\TargetSistemas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\TargetSistemas\obj\Debug\net9.0\TargetSistemas.AssemblyInfoInputs.cache
+C:\Users\User\TargetSistemas\obj\Debug\net9.0\TargetSistemas.AssemblyInfo.cs
+C:\Users\User\TargetSistemas\obj\Debug\net9.0\TargetSistemas.csproj.CoreCompileInputs.cache
+C:\Users\User\TargetSistemas\obj\Debug\net9.0\TargetSistemas.dll
+C:\Users\User\TargetSistemas\obj\Debug\net9.0\refint\TargetSistemas.dll
+C:\Users\User\TargetSistemas\obj\Debug\net9.0\TargetSistemas.pdb
+C:\Users\User\TargetSistemas\obj\Debug\net9.0\TargetSistemas.genruntimeconfig.cache
+C:\Users\User\TargetSistemas\obj\Debug\net9.0\ref\TargetSistemas.dll
